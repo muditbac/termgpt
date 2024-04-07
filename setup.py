@@ -11,6 +11,6 @@ setup(
     },
     install_requires=[
         # List your project's dependencies here, e.g.,
-        # 'requests',
+        'requests',
     ],
 )

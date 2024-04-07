@@ -1,2 +1,2 @@
 # termgpt
-A CLI GPT tool for your termain 
+A command line tool to convert your text instructions to command line instructions.

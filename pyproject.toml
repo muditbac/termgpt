@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "py-termgpt"
+version = "0.1.0"
+authors = [
+  { name="Hariprasath Parthasarathy", email="hariprasath95@gmail.com" },
+  { name="Mudit Bachhawat", email="mudit5bachhawat@gmail.com" },
+]
+description = "A command line tool to convert your text instructions to command line instructions"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/muditbac/termgpt"
+Issues = "https://github.com/muditbac/termgpt/issues"
